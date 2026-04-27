@@ -1,1 +1,3 @@
-# PCP-1SEM-CP2---Esturutra-Condicional-e-Fun-es
+Guilherme Detta RM- 569666
+Henrique Bolfer RM- 569514 
+Arthur Costa RM- 569976
